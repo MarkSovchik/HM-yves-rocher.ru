@@ -2,7 +2,7 @@
 # Тебования: https://docs.google.com/spreadsheets/d/1YV8iXbbUcAixpxdGgId0b1nfZjYiAat4cMxjcsOfbSk/edit?usp=sharing
 # Тест план
 # Цель:
-Провести функциональное тестирование:
+# Провести функциональное тестирование:
 Формы регистрации на сайте:https://www.yves-rocher.ru/
 Создание учетной записи пользователя.
 Авторизации
